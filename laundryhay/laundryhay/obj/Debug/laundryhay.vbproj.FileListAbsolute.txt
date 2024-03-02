@@ -1,0 +1,14 @@
+C:\Users\I d e a P a d\source\repos\laundryhay\laundryhay\obj\Debug\laundryhay.vbproj.AssemblyReference.cache
+C:\Users\I d e a P a d\source\repos\laundryhay\laundryhay\obj\Debug\laundryhay.Form1.resources
+C:\Users\I d e a P a d\source\repos\laundryhay\laundryhay\obj\Debug\laundryhay.Form2.resources
+C:\Users\I d e a P a d\source\repos\laundryhay\laundryhay\obj\Debug\laundryhay.Form3.resources
+C:\Users\I d e a P a d\source\repos\laundryhay\laundryhay\obj\Debug\laundryhay.Resources.resources
+C:\Users\I d e a P a d\source\repos\laundryhay\laundryhay\obj\Debug\laundryhay.vbproj.GenerateResource.cache
+C:\Users\I d e a P a d\source\repos\laundryhay\laundryhay\obj\Debug\laundryhay.vbproj.CoreCompileInputs.cache
+C:\Users\I d e a P a d\source\repos\laundryhay\laundryhay\bin\Debug\laundryhay.exe.config
+C:\Users\I d e a P a d\source\repos\laundryhay\laundryhay\bin\Debug\laundryhay.exe
+C:\Users\I d e a P a d\source\repos\laundryhay\laundryhay\bin\Debug\laundryhay.pdb
+C:\Users\I d e a P a d\source\repos\laundryhay\laundryhay\bin\Debug\laundryhay.xml
+C:\Users\I d e a P a d\source\repos\laundryhay\laundryhay\obj\Debug\laundryhay.exe
+C:\Users\I d e a P a d\source\repos\laundryhay\laundryhay\obj\Debug\laundryhay.xml
+C:\Users\I d e a P a d\source\repos\laundryhay\laundryhay\obj\Debug\laundryhay.pdb
